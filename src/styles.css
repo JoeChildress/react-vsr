@@ -1,0 +1,120 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.results-page {
+  background: rgb(57, 61, 64);
+  color: #393d40;
+  height: 3000px;
+  text-transform: uppercase;
+}
+
+.vsr-header {
+  background: white;
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  /* padding: 10px 20px; */
+}
+
+.vsr-header > h1 {
+  /* width: 400px; */
+  /* border: 1px solid green;
+  display: inline; */
+  margin-top: 10px;
+  margin-bottom: 8px;
+  /* margin: 10px auto 8px; */
+  /* text-align: center; */
+  /* text-transform: uppercase; */
+}
+.vsr-header > form {
+  /* width: 400px; */
+  /* border: 1px solid red; */
+  /* display: inline; */
+  /* height: 30px; */
+  /* text-transform: uppercase; */
+}
+
+.vehicle {
+  height: 465px;
+  border: 1px solid #3f87a6;
+  display: inline-block;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  color: #393d40;
+  background: white;
+}
+
+.vehicle-image {
+  display: block;
+  width: 100%;
+  margin: 20px 0 10px;
+}
+
+.title {
+  /* border: 1px solid red; */
+  text-align: left;
+  font-size: 25px;
+  /* text-transform: uppercase; */
+  height: 100px;
+}
+
+.title > h4 {
+  margin: 10px;
+  word-break: break-all;
+}
+
+.title span {
+  margin-left: 3px;
+}
+
+.title .style {
+  display: block;
+  font-size: 12px;
+}
+
+.title .condition {
+  color: #ed9500;
+}
+
+.prices {
+  text-align: right;
+  /* text-transform: uppercase; */
+}
+
+.prices .msrp {
+  font-size: 80%;
+}
+
+.prices .sale-price {
+  font-weight: bold;
+}
+.cta {
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+  color: white;
+  background: #393d40;
+}
+
+.cta:hover {
+  color: white;
+  background: #44484c;
+}
+
+.vin {
+  font-size: 8px;
+  padding: 8px;
+}
+
+#no-results {
+  color: white;
+}

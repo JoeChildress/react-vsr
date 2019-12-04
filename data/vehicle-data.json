@@ -1,0 +1,1571 @@
+[
+  {
+    "vin": "2G1105S30J9108613",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "CAR",
+    "bodyStyle": "4dr Car",
+    "year": 2018,
+    "odometer": {
+      "value": 14890,
+      "unit": "Miles"
+    },
+    "stockNumber": "708613",
+    "engine": {
+      "fuelType": "Gas",
+      "description": "3.6 liter V6 Cylinder Engine",
+      "cylinders": 6,
+      "displacement": {
+        "value": 3.6,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 18,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 18,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 28,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 28,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "name": "Jet Black/dark Titanium",
+          "category": "Interior"
+        }
+      },
+      {
+        "color": {
+          "code": "GAN",
+          "name": "Silver Ice Metallic",
+          "base": "Silver",
+          "category": "Exterior",
+          "RGBHexCode": "#C4AEAD"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 28775,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 33065,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 33065,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 22925,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 31878.9,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 30646.74,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 827,
+    "descriptions": {
+      "description": [
+        {
+          "value": "<b>Vehicle Details</b><br>Welcome to the exclusive AutoFarm Castle Rock Chevrolet online vehicle listings. Now that you found a vehicle you like, let's schedule a time for you to take a pressure free test drive. Call today to schedule a vehicle showing with an experienced consultant. If you have a quick question about this unit, don?t hesitate to call us at 866-788-0354. Thanks for checking us out.",
+          "type": "Dealer"
+        }
+      ]
+    },
+    "doors": 4,
+    "drivetrain": "FWD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 22925,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 22925,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 5,
+    "inventoryStatus": {
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "2GCVKPEC3K1108325",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "TRUCK",
+    "bodyStyle": "Extended Cab Pickup - Standard Bed",
+    "year": 2019,
+    "odometer": {
+      "value": 4942,
+      "unit": "Miles"
+    },
+    "stockNumber": "708325",
+    "engine": {
+      "fuelType": "Flexible Fuel",
+      "description": "5.3 liter 8 Cylinder Engine",
+      "cylinders": 8,
+      "displacement": {
+        "value": 5.3,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "H0U",
+          "name": "Jet Black",
+          "category": "Interior"
+        }
+      },
+      {
+        "color": {
+          "code": "GPJ",
+          "name": "Cajun Red Tintcoat",
+          "base": "Red",
+          "category": "Exterior",
+          "RGBHexCode": "#ff0000"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 40022,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 47745,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 47745,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 39522,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 45070.5,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 43339.48,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 458,
+    "descriptions": {
+      "description": [
+        {
+          "value": "<b>Vehicle Details</b><br>THE 2019 SILVERADO LEGACY HAS ARRIVED AT AUTOFARM CASTLE ROCK CHEVROLET! Our experienced AutoFarm Chevrolet team is here to help you make your next car buying experience efficient and relaxed. Thanks for checking out our vehicle online. Please come and visit us at 624 Front Street, Evanston, WY or give us a call at (307)288-5203.<br><br><b>Additional Information</b><br>CTP",
+          "type": "Dealer"
+        }
+      ]
+    },
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 39570.5,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 45070.5,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 6,
+    "inventoryStatus": {
+      "date": "2018-08-15T12:42:27.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "2GCVKPEC5K1108407",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "TRUCK",
+    "bodyStyle": "Extended Cab Pickup - Standard Bed",
+    "year": 2019,
+    "odometer": {
+      "value": 6,
+      "unit": "Miles"
+    },
+    "stockNumber": "708407",
+    "engine": {
+      "fuelType": "Flexible Fuel",
+      "description": "5.3 liter 8 Cylinder Engine",
+      "cylinders": 8,
+      "displacement": {
+        "value": 5.3,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "H0U",
+          "name": "Jet Black",
+          "category": "Interior"
+        }
+      },
+      {
+        "color": {
+          "code": "GBA",
+          "name": "Black",
+          "base": "Black",
+          "category": "Exterior",
+          "RGBHexCode": "#000000"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 43702,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 47050,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 47050,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 41977,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 44438.05,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 42732.33,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 458,
+    "descriptions": {
+      "description": [
+        {
+          "value": "<b>Vehicle Details</b><br>THE 2019 SILVERADO LEGACY HAS ARRIVED AT AUTOFARM CASTLE ROCK CHEVROLET! Our experienced AutoFarm Chevrolet team is here to help you make your next car buying experience efficient and relaxed. Thanks for checking out our vehicle online. Please come and visit us at 624 Front Street, Evanston, WY or give us a call at (307)288-5203.",
+          "type": "Dealer"
+        }
+      ]
+    },
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 37640.05,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 44438.05,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 6,
+    "inventoryStatus": {
+      "date": "2018-08-15T12:42:28.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "2GCVKPEC7K1110272",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "TRUCK",
+    "bodyStyle": "Extended Cab Pickup - Standard Bed",
+    "year": 2019,
+    "odometer": {
+      "value": 6,
+      "unit": "Miles"
+    },
+    "stockNumber": "710272",
+    "engine": {
+      "fuelType": "Flexible Fuel",
+      "description": "5.3 liter 8 Cylinder Engine",
+      "cylinders": 8,
+      "displacement": {
+        "value": 5.3,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "H0U",
+          "name": "Jet Black",
+          "category": "Interior"
+        }
+      },
+      {
+        "color": {
+          "code": "GBA",
+          "name": "Black",
+          "base": "Black",
+          "category": "Exterior",
+          "RGBHexCode": "#000000"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 43680,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 47250,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 47250,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 41977,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 44620.05,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 42907.05,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 458,
+    "descriptions": {
+      "description": [
+        {
+          "value": "<b>Vehicle Details</b><br>THE 2019 SILVERADO LEGACY HAS ARRIVED AT AUTOFARM CASTLE ROCK CHEVROLET! Our experienced AutoFarm Chevrolet team is here to help you make your next car buying experience efficient and relaxed. Thanks for checking out our vehicle online. Please come and visit us at 624 Front Street, Evanston, WY or give us a call at (307)288-5203.",
+          "type": "Dealer"
+        }
+      ]
+    },
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 37800.05,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 44620.05,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 6,
+    "inventoryStatus": {
+      "date": "2018-08-15T12:42:28.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "1GNSKHKC4KR181991",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "SUV",
+    "bodyStyle": "Sport Utility",
+    "year": 2019,
+    "odometer": {
+      "value": 12,
+      "unit": "Miles"
+    },
+    "stockNumber": "781991",
+    "engine": {
+      "fuelType": "Flexible Fuel",
+      "description": "5.3 liter 8 Cylinder Engine",
+      "cylinders": 8,
+      "displacement": {
+        "value": 5.3,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 14,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 14,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 21,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "H2U",
+          "name": "Jet Black",
+          "category": "Interior"
+        }
+      },
+      {
+        "color": {
+          "code": "GBA",
+          "name": "Black",
+          "base": "Black",
+          "category": "Exterior",
+          "RGBHexCode": "#000000"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 62203,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 67315,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 67315,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 61977,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 63548.4,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 61070.26,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 394,
+    "descriptions": {
+      "description": [
+        {
+          "value": "<b>Vehicle Details</b><br>Welcome to the exclusive AutoFarm Castle Rock Chevrolet online vehicle listings. Now that you found a vehicle you like, let's schedule a time for you to take a pressure free test drive. Call today to schedule a vehicle showing with an experienced consultant. If you have a quick question about this unit, don?t hesitate to call us at 866-788-0354. Thanks for checking us out.",
+          "type": "Dealer"
+        }
+      ]
+    },
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 57891.4,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 63548.4,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 8,
+    "inventoryStatus": {
+      "date": "2018-10-16T12:42:06.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "1GC1KTEY5KF192272",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "TRUCK",
+    "bodyStyle": "Crew Cab Pickup - Standard Bed",
+    "year": 2019,
+    "odometer": {
+      "value": 10,
+      "unit": "Miles"
+    },
+    "stockNumber": "792272",
+    "engine": {
+      "fuelType": "Diesel",
+      "description": "V8, 6.6L; Turbo",
+      "cylinders": 8,
+      "displacement": {
+        "value": 6.6,
+        "unit": "liter"
+      }
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "GBA",
+          "name": "Black",
+          "base": "Black",
+          "category": "Exterior",
+          "RGBHexCode": "#000000"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 62745,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 69125,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 69125,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 62977,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 64493.3,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 61985.37,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 332,
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 58493.3,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 64493.3,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 5,
+    "inventoryStatus": {
+      "date": "2018-12-19T13:42:40.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "1GC1KSEY0KF214639",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "TRUCK",
+    "bodyStyle": "Crew Cab Pickup - Standard Bed",
+    "year": 2019,
+    "odometer": {
+      "value": 9,
+      "unit": "Miles"
+    },
+    "stockNumber": "714639",
+    "engine": {
+      "fuelType": "Diesel",
+      "description": "V8, 6.6L; Turbo",
+      "cylinders": 8,
+      "displacement": {
+        "value": 6.6,
+        "unit": "liter"
+      }
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "GAZ",
+          "name": "Summit White",
+          "base": "White",
+          "category": "Exterior",
+          "RGBHexCode": "#ffffff"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 58007,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 63620,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 63620,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 58577,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 59362.75,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 57060.04,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 294,
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 54079.75,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 59362.75,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 6,
+    "inventoryStatus": {
+      "date": "2019-01-26T13:42:46.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "1GCUYHEL8KZ240925",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "TRUCK",
+    "bodyStyle": "Crew Cab Pickup - Standard Bed",
+    "year": 2019,
+    "odometer": {
+      "value": 17,
+      "unit": "Miles"
+    },
+    "stockNumber": "740925",
+    "engine": {
+      "fuelType": "Gas",
+      "description": "V8, 6.2L",
+      "cylinders": 8,
+      "displacement": {
+        "value": 6.2,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 16,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 16,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 20,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 20,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "GBA",
+          "name": "Black",
+          "base": "Black",
+          "category": "Exterior",
+          "RGBHexCode": "#000000"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 60351,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 64910,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 64910,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 60851,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 61030.85,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 58661.42,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 294,
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 52576.85,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 61030.85,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 5,
+    "inventoryStatus": {
+      "date": "2019-01-26T13:42:47.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "automatic",
+      "speeds": 10
+    }
+  },
+  {
+    "vin": "1GNSKGKC2JR275098",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "SUV",
+    "bodyStyle": "Sport Utility",
+    "year": 2018,
+    "odometer": {
+      "value": 1828,
+      "unit": "Miles"
+    },
+    "stockNumber": "775098",
+    "engine": {
+      "fuelType": "Flexible Fuel",
+      "description": "V8, 5.3L; FFV; VVT",
+      "cylinders": 8,
+      "displacement": {
+        "value": 5.3,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 15,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 22,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 22,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "GAN",
+          "name": "Silver Ice Metallic",
+          "base": "Silver",
+          "category": "Exterior",
+          "RGBHexCode": "#C4AEAD"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 51039,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 57885,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 57885,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 51001,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 54687.9,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 52564.18,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 291,
+    "doors": 4,
+    "drivetrain": "4WD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 51001,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 51001,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 8,
+    "inventoryStatus": {
+      "date": "2019-01-29T17:16:11.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  },
+  {
+    "vin": "3G1BE6SMXKS608707",
+    "preOwned": false,
+    "certified": false,
+    "bodyType": "CAR",
+    "bodyStyle": "4dr Car",
+    "year": 2019,
+    "odometer": {
+      "value": 6960,
+      "unit": "Miles"
+    },
+    "stockNumber": "708707",
+    "engine": {
+      "fuelType": "Gas",
+      "description": "L4, 1.4L; Turbo",
+      "cylinders": 4,
+      "displacement": {
+        "value": 1.4,
+        "unit": "liter"
+      }
+    },
+    "fuelEconomies": {
+      "fuelEconomy": [
+        {
+          "rating": {
+            "value": 28,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 28,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "City",
+          "identificationFuelType": "city",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        },
+        {
+          "rating": {
+            "value": 38,
+            "unit": "(MPG)"
+          },
+          "ratingValue": {
+            "value": 38,
+            "unit": "(MPG)"
+          },
+          "ratingConditions": "Hwy",
+          "identificationFuelType": "highway",
+          "fuelEconomyType": "GAS",
+          "preliminaryRating": false
+        }
+      ]
+    },
+    "colors": [
+      {
+        "color": {
+          "code": "G7Q",
+          "name": "Nightfall Gray Metallic",
+          "base": "Gray",
+          "category": "Exterior",
+          "RGBHexCode": "#595959"
+        }
+      }
+    ],
+    "prices": [
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 23441,
+          "dataSourceField": "invoice_price",
+          "type": "invoicePrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 24990,
+          "dataSourceField": "msrp",
+          "type": "msrp"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 24990,
+          "dataSourceField": "price",
+          "type": "retailPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 23441,
+          "dataSourceField": "price2",
+          "type": "discountPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 24269.89,
+          "dataSourceField": "supplier_price",
+          "type": "supplierPrice"
+        }
+      },
+      {
+        "price": {
+          "currencyCode": "USD",
+          "amount": 23346.09,
+          "dataSourceField": "employee_price",
+          "type": "employeePrice"
+        }
+      }
+    ],
+    "primaryWebId": "gmps-castle",
+    "webIds": ["gmps-castle"],
+    "lotAge": 262,
+    "doors": 4,
+    "drivetrain": "FWD",
+    "storeIds": ["S100036984"],
+    "status": "In-stock",
+    "stockType": ["new"],
+    "merchandisableInfo": {
+      "gmps-castle": {
+        "prices": [
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 20441,
+              "dataSourceField": "vended_price",
+              "type": "vendedPrice"
+            }
+          },
+          {
+            "price": {
+              "currencyCode": "USD",
+              "amount": 23441,
+              "dataSourceField": "featured",
+              "type": "featured"
+            }
+          }
+        ],
+        "featuredPriceType": "discountPrice"
+      }
+    },
+    "seatingCapacity": 5,
+    "inventoryStatus": {
+      "date": "2019-02-27T07:36:33.000+0000",
+      "text": "In-stock"
+    },
+    "transmission": {
+      "type": "A",
+      "text": "6-Speed A/T",
+      "speeds": 6
+    }
+  }
+]
